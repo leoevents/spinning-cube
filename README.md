@@ -2,7 +2,7 @@
 
 3D spinning cube made with Three.js
 
-![](https://eventfinity-production-assets.s3.amazonaws.com/materials/986831/original/zoom_0.gif / GIF)
+![](https://eventfinity-production-assets.s3.amazonaws.com/materials/986831/original/zoom_0.gif)
 
 
 ## Installation
